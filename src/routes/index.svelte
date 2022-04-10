@@ -10,6 +10,10 @@
 	let notSubmitted = true; // default = true
 </script>
 
+<svelte:head>
+	<title>Interactive Rating Component</title>
+</svelte:head>
+
 <div class="card">
 	{#if notSubmitted}
 		<div class="question">
