@@ -20,7 +20,7 @@ Users should be able to:
 ### Links
 
 - Github URL: [Add solution URL here](https://github.com/darpots/fm-rating-component)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](hhttps://fm-rating-component.vercel.app)
 
 ## My process
 
