@@ -14,7 +14,7 @@
 	<title>Interactive Rating Component</title>
 </svelte:head>
 
-<div class="card">
+<main class="card">
 	{#if notSubmitted}
 		<div class="question">
 			<div class="star-background">
@@ -53,7 +53,7 @@
 			</p>
 		</div>
 	{/if}
-</div>
+</main>
 
 <style>
 	.card {
